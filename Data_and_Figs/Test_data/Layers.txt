@@ -1,0 +1,306 @@
+[22,15,2]
+
+Epoch 0 
+Accuracy on evaluation data: 2769 / 3250
+Epoch 1 
+Accuracy on evaluation data: 2945 / 3250
+Epoch 2 
+Accuracy on evaluation data: 3009 / 3250
+Epoch 3 
+Accuracy on evaluation data: 2987 / 3250
+Epoch 4 
+Accuracy on evaluation data: 3075 / 3250
+Epoch 5 
+Accuracy on evaluation data: 3071 / 3250
+Epoch 6 
+Accuracy on evaluation data: 3093 / 3250
+Epoch 7 
+Accuracy on evaluation data: 3114 / 3250
+Epoch 8 
+Accuracy on evaluation data: 3150 / 3250
+Epoch 9 
+Accuracy on evaluation data: 3176 / 3250
+Epoch 10 
+Accuracy on evaluation data: 3202 / 3250
+Epoch 11 
+Accuracy on evaluation data: 3196 / 3250
+Epoch 12 
+Accuracy on evaluation data: 3199 / 3250
+Epoch 13 
+Accuracy on evaluation data: 3226 / 3250
+Epoch 14 
+Accuracy on evaluation data: 3219 / 3250
+Epoch 15 
+Accuracy on evaluation data: 3222 / 3250
+Epoch 16 
+Accuracy on evaluation data: 3226 / 3250
+Epoch 17 
+Accuracy on evaluation data: 3235 / 3250
+Epoch 18 
+Accuracy on evaluation data: 3104 / 3250
+Epoch 19 
+Accuracy on evaluation data: 3234 / 3250
+Epoch 20 
+Accuracy on evaluation data: 3230 / 3250
+Epoch 21 
+Accuracy on evaluation data: 3238 / 3250
+Epoch 22 
+Accuracy on evaluation data: 3239 / 3250
+Epoch 23 
+Accuracy on evaluation data: 3238 / 3250
+Epoch 24 
+Accuracy on evaluation data: 3245 / 3250
+Epoch 25 
+Accuracy on evaluation data: 3243 / 3250
+Epoch 26 
+Accuracy on evaluation data: 3244 / 3250
+Epoch 27 
+Accuracy on evaluation data: 3239 / 3250
+Epoch 28 
+Accuracy on evaluation data: 3249 / 3250
+Epoch 29 
+Accuracy on evaluation data: 3241 / 3250
+Epoch 30 
+Accuracy on evaluation data: 3247 / 3250
+Epoch 31 
+Accuracy on evaluation data: 3246 / 3250
+Epoch 32 
+Accuracy on evaluation data: 3246 / 3250
+Epoch 33 
+Accuracy on evaluation data: 3248 / 3250
+Epoch 34 
+Accuracy on evaluation data: 3238 / 3250
+Epoch 35 
+Accuracy on evaluation data: 3248 / 3250
+Epoch 36 
+Accuracy on evaluation data: 3245 / 3250
+Epoch 37 
+Accuracy on evaluation data: 3246 / 3250
+Epoch 38 
+Accuracy on evaluation data: 3246 / 3250
+Epoch 39 
+Accuracy on evaluation data: 3248 / 3250
+Epoch 40 
+Accuracy on evaluation data: 3248 / 3250
+Epoch 41 
+Accuracy on evaluation data: 3246 / 3250
+Epoch 42 
+Accuracy on evaluation data: 3248 / 3250
+Epoch 43 
+Accuracy on evaluation data: 3247 / 3250
+Epoch 44 
+Accuracy on evaluation data: 3246 / 3250
+Epoch 45 
+Accuracy on evaluation data: 3245 / 3250
+Epoch 46 
+Accuracy on evaluation data: 3247 / 3250
+Epoch 47 
+Accuracy on evaluation data: 3245 / 3250
+Epoch 48 
+Accuracy on evaluation data: 3248 / 3250
+Epoch 49 
+Accuracy on evaluation data: 3245 / 3250
+
+[22,35,2]
+Epoch 0 
+Accuracy on evaluation data: 2777 / 3250
+Epoch 1 
+Accuracy on evaluation data: 3011 / 3250
+Epoch 2 
+Accuracy on evaluation data: 3051 / 3250
+Epoch 3 
+Accuracy on evaluation data: 3046 / 3250
+Epoch 4 
+Accuracy on evaluation data: 3094 / 3250
+Epoch 5 
+Accuracy on evaluation data: 3114 / 3250
+Epoch 6 
+Accuracy on evaluation data: 3129 / 3250
+Epoch 7 
+Accuracy on evaluation data: 3142 / 3250
+Epoch 8 
+Accuracy on evaluation data: 3174 / 3250
+Epoch 9 
+Accuracy on evaluation data: 3172 / 3250
+Epoch 10 
+Accuracy on evaluation data: 3105 / 3250
+Epoch 11 
+Accuracy on evaluation data: 3193 / 3250
+Epoch 12 
+Accuracy on evaluation data: 3201 / 3250
+Epoch 13 
+Accuracy on evaluation data: 3211 / 3250
+Epoch 14 
+Accuracy on evaluation data: 3204 / 3250
+Epoch 15 
+Accuracy on evaluation data: 3228 / 3250
+Epoch 16 
+Accuracy on evaluation data: 3233 / 3250
+Epoch 17 
+Accuracy on evaluation data: 3237 / 3250
+Epoch 18 
+Accuracy on evaluation data: 3239 / 3250
+Epoch 19 
+Accuracy on evaluation data: 3239 / 3250
+Epoch 20 
+Accuracy on evaluation data: 3245 / 3250
+Epoch 21 
+Accuracy on evaluation data: 3239 / 3250
+Epoch 22 
+Accuracy on evaluation data: 3245 / 3250
+Epoch 23 
+Accuracy on evaluation data: 3246 / 3250
+Epoch 24 
+Accuracy on evaluation data: 3245 / 3250
+Epoch 25 
+Accuracy on evaluation data: 3248 / 3250
+Epoch 26 
+Accuracy on evaluation data: 3244 / 3250
+Epoch 27 
+Accuracy on evaluation data: 3247 / 3250
+Epoch 28 
+Accuracy on evaluation data: 3249 / 3250
+Epoch 29 
+Accuracy on evaluation data: 3248 / 3250
+Epoch 30 
+Accuracy on evaluation data: 3249 / 3250
+Epoch 31 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 32 
+Accuracy on evaluation data: 3249 / 3250
+Epoch 33 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 34 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 35 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 36 
+Accuracy on evaluation data: 3248 / 3250
+Epoch 37 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 38 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 39 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 40 
+Accuracy on evaluation data: 3249 / 3250
+Epoch 41 
+Accuracy on evaluation data: 3249 / 3250
+Epoch 42 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 43 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 44 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 45 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 46 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 47 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 48 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 49 
+Accuracy on evaluation data: 3250 / 3250
+
+[22,45,66,2]
+Epoch 0 
+Accuracy on evaluation data: 2759 / 3250
+Epoch 1 
+Accuracy on evaluation data: 2902 / 3250
+Epoch 2 
+Accuracy on evaluation data: 3012 / 3250
+Epoch 3 
+Accuracy on evaluation data: 3045 / 3250
+Epoch 4 
+Accuracy on evaluation data: 3045 / 3250
+Epoch 5 
+Accuracy on evaluation data: 3133 / 3250
+Epoch 6 
+Accuracy on evaluation data: 3090 / 3250
+Epoch 7 
+Accuracy on evaluation data: 3190 / 3250
+Epoch 8 
+Accuracy on evaluation data: 3200 / 3250
+Epoch 9 
+Accuracy on evaluation data: 3203 / 3250
+Epoch 10 
+Accuracy on evaluation data: 3195 / 3250
+Epoch 11 
+Accuracy on evaluation data: 3230 / 3250
+Epoch 12 
+Accuracy on evaluation data: 3231 / 3250
+Epoch 13 
+Accuracy on evaluation data: 3236 / 3250
+Epoch 14 
+Accuracy on evaluation data: 3245 / 3250
+Epoch 15 
+Accuracy on evaluation data: 3216 / 3250
+Epoch 16 
+Accuracy on evaluation data: 3241 / 3250
+Epoch 17 
+Accuracy on evaluation data: 3238 / 3250
+Epoch 18 
+Accuracy on evaluation data: 3244 / 3250
+Epoch 19 
+Accuracy on evaluation data: 3245 / 3250
+Epoch 20 
+Accuracy on evaluation data: 3244 / 3250
+Epoch 21 
+Accuracy on evaluation data: 3246 / 3250
+Epoch 22 
+Accuracy on evaluation data: 3248 / 3250
+Epoch 23 
+Accuracy on evaluation data: 3247 / 3250
+Epoch 24 
+Accuracy on evaluation data: 3249 / 3250
+Epoch 25 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 26 
+Accuracy on evaluation data: 3248 / 3250
+Epoch 27 
+Accuracy on evaluation data: 3247 / 3250
+Epoch 28 
+Accuracy on evaluation data: 3248 / 3250
+Epoch 29 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 30 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 31 
+Accuracy on evaluation data: 3248 / 3250
+Epoch 32 
+Accuracy on evaluation data: 3249 / 3250
+Epoch 33 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 34 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 35 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 36 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 37 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 38 
+Accuracy on evaluation data: 3248 / 3250
+Epoch 39 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 40 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 41 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 42 
+Accuracy on evaluation data: 3249 / 3250
+Epoch 43 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 44 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 45 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 46 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 47 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 48 
+Accuracy on evaluation data: 3250 / 3250
+Epoch 49 
+Accuracy on evaluation data: 3250 / 3250
